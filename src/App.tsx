@@ -23,8 +23,7 @@ const profileInfo = {
   name: "Sri Sathya Chandi Mandali",
   description: "Connect with us across our official channels",
   // Automatically grabs the high-res icon from the website
-  logoUrl:
-    "https://www.google.com/s2/favicons?domain=www.srisathyachandimandali.com&sz=128",
+  logoUrl: "./sscmv2.png",
 };
 
 // Social links configuration
